@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ibtissem Hamani
 
-### 💻 Technical Sales Engineer | AI Enthusiast | Web Developer  
+### 💻 Technical Sales Engineer | AI | Web Developer  
 
 🔭 I’m currently working at **ALFATRON Electronic Industries**  
 🌱 I’m expanding my knowledge in **marketing, AI, and full-stack development**  
@@ -11,12 +11,12 @@
 ## 🛠 Tech Stack & Tools
 
 ### 🔹 Programming Languages
-- ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-- ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 
 ### 🌐 Web Development
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
