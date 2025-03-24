@@ -44,6 +44,20 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibtissem-hamani&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibtissem-hamani&layout=compact&theme=radical)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibtissem-hamani&theme=tokyo-night)
+## 📊 GitHub Stats  
+
+### 🚀 GitHub Stats (Compact)  
+![Ibtissem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibtissem-hamani&show_icons=true&theme=transparent&hide=contribs,prs&card_width=350)
+
+### 🌟 Most Used Languages (Compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibtissem-hamani&layout=compact&theme=transparent&langs_count=6&card_width=350)
+
+### ⚡ GitHub Streak (Small)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibtissem-hamani&theme=dark&hide_border=true&stroke=0000&fire=FF4500&sideLabels=FFFFFF&ring=FF4500&currStreakLabel=FF4500&card_width=350)](https://git.io/streak-stats)
+
+### 📊 Activity Graph (Compact)  
+[![Ibtissem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibtissem-hamani&theme=github-dark&hide_border=true&area=true&line=FF4500&point=FFFFFF&width=600&height=200)](https://github.com/ibtissem-hamani)
+
 ---
 
 ## 📫 Connect with Me  
