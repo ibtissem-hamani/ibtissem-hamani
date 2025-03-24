@@ -41,8 +41,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=ibtissem-hamani&show_icons=true&theme=gruvbox&hide=contribs,prs&card_width=300)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibtissem-hamani&layout=compact&theme=gruvbox&card_width=300)  
-
+![Ibtissem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibtissem-hamani&show_icons=true&theme=transparent&hide=contribs,prs&card_width=350)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibtissem-hamani&layout=compact&theme=transparent&langs_count=6&card_width=350)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibtissem-hamani&theme=dark&hide_border=true&stroke=0000&fire=FF4500&sideLabels=FFFFFF&ring=FF4500&currStreakLabel=FF4500&card_width=350)](https://git.io/streak-stats)
 ---
 
 ## 📫 Connect with Me  
