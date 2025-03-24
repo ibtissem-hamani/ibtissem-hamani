@@ -58,6 +58,20 @@
 ### 📊 Activity Graph (Compact)  
 [![Ibtissem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibtissem-hamani&theme=github-dark&hide_border=true&area=true&line=FF4500&point=FFFFFF&width=600&height=200)](https://github.com/ibtissem-hamani)
 
+## 📊 GitHub Stats  
+
+### 🚀 GitHub Stats (Compact)  
+![Ibtissem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibtissem-hamani&show_icons=true&theme=transparent&hide=contribs,prs&card_width=300)
+
+### 🌟 Most Used Languages (Compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibtissem-hamani&layout=compact&theme=transparent&langs_count=6&card_width=300)
+
+### ⚡ GitHub Streak (Small, Green Theme)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibtissem-hamani&theme=dark&hide_border=true&stroke=0000&fire=00FF00&sideLabels=FFFFFF&ring=00FF00&currStreakLabel=00FF00&card_width=300)](https://git.io/streak-stats)
+
+### 📊 Activity Graph (Green Theme, Small Width)  
+[![Ibtissem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibtissem-hamani&theme=github-dark&hide_border=true&area=true&line=00FF00&point=FFFFFF&width=400&height=150)](https://github.com/ibtissem-hamani)
+
 ---
 
 ## 📫 Connect with Me  
