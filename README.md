@@ -47,5 +47,5 @@
 ---
 
 ## 📫 Connect with Me  
-📩 **Email:** Hamani.ibtissem.1998@gmail.com 
-🔗 **GitHub & LinkedIn:** [@ibtissem-hamani](https://github.com/ibtissem-hamani)  
+- 📩 **Email:** Hamani.ibtissem.1998@gmail.com 
+- 🔗 **GitHub & LinkedIn:** [@ibtissem-hamani](https://github.com/ibtissem-hamani)  
