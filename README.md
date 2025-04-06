@@ -1,10 +1,6 @@
 ## Hi there 👋 I'm Ibtissem Hamani
 
 ### 💻 Technical Sales Engineer | AI | Web Developer  
-
-🔭 I’m currently working at **ALFATRON Electronic Industries**  
-🌱 I’m expanding my knowledge in **marketing, AI, and full-stack development**  
-👯 I’m open to collaboration on **AI projects, web development, and marketing analytics**  
 ---
 
 ## 🛠 Tech Stack & Tools
