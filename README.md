@@ -6,8 +6,6 @@ Hi there, I'm Ibtissem Hamani
 
 🛠 I enjoy building smart, creative, and user-focused tech solutions.
 
----
-
 ## 🛠 Tech Stack & Tools
 
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
@@ -29,7 +27,6 @@ Hi there, I'm Ibtissem Hamani
  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
  ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender)
 
----
 
 ## 📊 GitHub Stats  
 ![Ibtissem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibtissem-hamani&show_icons=true&theme=transparent&hide=contribs,prs&card_width=350) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibtissem-hamani&layout=compact&theme=transparent&langs_count=6&card_width=350_heigth=500)
