@@ -1,7 +1,8 @@
-## Hi there 👋 I'm Ibtissem Hamani
+Hi there, I'm Ibtissem Hamani
 
-### 💻 Technical Sales Engineer | AI | Web Developer  
----
+🎓 Master’s in Artificial Intelligence & Applications
+💡 Passionate about Web Development, Desktop Apps, Machine Learning & Deep Learning
+🛠 I enjoy building smart, creative, and user-focused tech solutions.
 
 ## 🛠 Tech Stack & Tools
 
