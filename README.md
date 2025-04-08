@@ -21,12 +21,8 @@ Hi there, I'm Ibtissem Hamani
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-
-### 🤖 AI & Machine Learning
  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
-
-### 🛠 Tools & Other
  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
  ![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-34A853?style=flat&logo=google-earth)
