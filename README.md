@@ -1,8 +1,10 @@
 Hi there, I'm Ibtissem Hamani
 
-- 🎓 Master’s in Artificial Intelligence & Applications
--💡 Passionate about Web Development, Desktop Apps, Machine Learning & Deep Learning
-- 🛠 I enjoy building smart, creative, and user-focused tech solutions.
+🎓 Master’s in Artificial Intelligence & Applications
+
+💡 Passionate about Web Development, Desktop Apps, Machine Learning & Deep Learning
+
+🛠 I enjoy building smart, creative, and user-focused tech solutions.
 
 ---
 
