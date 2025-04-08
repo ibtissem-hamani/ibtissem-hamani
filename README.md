@@ -4,6 +4,8 @@ Hi there, I'm Ibtissem Hamani
 💡 Passionate about Web Development, Desktop Apps, Machine Learning & Deep Learning
 🛠 I enjoy building smart, creative, and user-focused tech solutions.
 
+---
+
 ## 🛠 Tech Stack & Tools
 
 ### 🔹 Programming Languages
